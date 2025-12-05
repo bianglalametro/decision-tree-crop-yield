@@ -53,6 +53,8 @@ plant_age_days,height_cm,leaf_color,rainfall,soil_moisture,ready
 - **NetworkX**: Visualisasi struktur pohon keputusan
 - **Scikit-learn**: Evaluasi metrik (accuracy_score)
 
+> **⚠️ Disclaimer**: Library yang digunakan dalam proyek ini hanya untuk keperluan visualisasi. Algoritma Decision Tree ID3 diimplementasikan dari awal tanpa menggunakan library machine learning tingkat tinggi.
+
 ## 📦 Instalasi
 
 1. Clone repository ini:
