@@ -8,7 +8,7 @@ Proyek ini mengimplementasikan algoritma Decision Tree dengan metode ID3 (Iterat
 - Imam Ar-Roghib Al-Ashfahani
 - M. Reyhan Hermawan
 - Muhammad Ghanim Mukafih
-- M Althaf Faiz Rafianto
+- M. Althaf Faiz Rafianto
 
 ## 📋 Deskripsi Proyek
 
